@@ -52,3 +52,4 @@ Then create a branch for the issue you want to work on
 When finished, push from your branch, then use the "Compare and Pull request" button on Github to create a pull request
 
 Make sure to reference the issue your pull request addresses
+changed readme
